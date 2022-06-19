@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#others
+src
+demo
+.babelrc
+webpack.config.js
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+public

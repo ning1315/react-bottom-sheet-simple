@@ -20,7 +20,7 @@ function App() {
         </p>
         <p>
           <a
-            className="App-link"
+            className="text-blue-500"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
