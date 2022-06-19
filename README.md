@@ -1,2 +1,2 @@
-# react-esay-bottom-sheet
-react-esay-bottom-sheet
+# react-bottom-sheet-simple
+react-bottom-sheet-simple
